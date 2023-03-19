@@ -1,5 +1,9 @@
 Hello world! this is something that I'm writing.
 Why?
+<<<<<<< HEAD
 Can you guess why?
 Well...
+=======
+This is the first experiment, wow...
+>>>>>>> Write first experiment in hello_world.txt
 Because I WANT TO!
